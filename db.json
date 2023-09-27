@@ -77,10 +77,10 @@
       "category": "jacket",
       "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
       "images": [
-        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_jacket1.jpg",
-        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_jacket2.jpg",
-        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_jacket3.jpg",
-        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_jacket4.jpg"
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_jacket1.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_jacket2.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_jacket3.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_jacket4.jpg?raw=true"
       ]
     },
     {
@@ -94,10 +94,10 @@
       "category": "sherwani",
       "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
       "images": [
-        "/images/men_sherwani1.jpg",
-        "/images/men_sherwani2.jpg",
-        "/images/men_sherwani3.jpg",
-        "/images/men_sherwani4.jpg"
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_sherwani1.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_sherwani2.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_sherwani3.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_sherwani4.jpg?raw=true"
       ]
     },
     {
@@ -111,10 +111,10 @@
       "category": "suit",
       "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
       "images": [
-        "/images/men_suit1.jpg",
-        "/images/men_suit2.jpg",
-        "/images/men_suit3.jpg",
-        "/images/men_suit4.jpg"
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_suit1.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_suit2.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_suit3.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_suit4.jpg?raw=true"
       ]
     },
     {
@@ -128,10 +128,10 @@
       "category": "sweatshirt",
       "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
       "images": [
-        "/images/men_sweat_shirt1.jpg",
-        "/images/men_sweat_shirt2.jpg",
-        "/images/men_sweat_shirt3.jpg",
-        "/images/men_sweat_shirt4.jpg"
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_sweat_shirt1.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_sweat_shirt2.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_sweat_shirt3.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_sweat_shirt4.jpg?raw=true"
       ]
     },
     {
@@ -145,10 +145,10 @@
       "category": "tshirt",
       "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
       "images": [
-        "/images/men_tshirt1.jpg",
-        "/images/men_tshirt2.jpg",
-        "/images/men_tshirt3.jpg",
-        "/images/men_tshirt4.jpg"
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_tshirt1.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_tshirt2.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_tshirt3.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_tshirt4.jpg?raw=true"
       ]
     },
     {
@@ -162,10 +162,10 @@
       "category": "tshirt",
       "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
       "images": [
-        "/images/women_tshirt1.jpg",
-        "/images/women_tshirt2.jpg",
-        "/images/women_tshirt3.jpg",
-        "/images/women_tshirt4.jpg"
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_tshirt1.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_tshirt2.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_tshirt3.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_tshirt4.jpg?raw=true"
       ]
     },
     {
@@ -179,10 +179,10 @@
       "category": "dresses",
       "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
       "images": [
-        "/images/women_dress1.jpg",
-        "/images/women_dress2.jpg",
-        "/images/women_dress3.jpg",
-        "/images/women_dress4.jpg"
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dress1.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dress2.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dress3.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dress4.jpg?raw=true"
       ]
     },
     {
@@ -196,10 +196,10 @@
       "category": "jacket",
       "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
       "images": [
-        "/images/women_jacket1.jpg",
-        "/images/women_jacket2.jpg",
-        "/images/women_jacket3.jpg",
-        "/images/women_jacket4.jpg"
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_jacket1.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_jacket2.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_jacket3.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_jacket4.jpg?raw=true"
       ]
     },
     {
@@ -213,10 +213,10 @@
       "category": "shrug",
       "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
       "images": [
-        "/images/women_shrug1.jpg",
-        "/images/women_shrug2.jpg",
-        "/images/women_shrug3.jpg",
-        "/images/women_shrug4.jpg"
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_shrug1.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_shrug2.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_shrug3.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_shrug4.jpg?raw=true"
       ]
     }
   ]
