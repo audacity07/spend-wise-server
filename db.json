@@ -77,10 +77,10 @@
       "category": "jacket",
       "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
       "images": [
-        "/images/men_jacket1.jpg",
-        "/images/men_jacket2.jpg",
-        "/images/men_jacket3.jpg",
-        "/images/men_jacket4.jpg"
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_jacket1.jpg",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_jacket2.jpg",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_jacket3.jpg",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/men_jacket4.jpg"
       ]
     },
     {
