@@ -1,4 +1,5 @@
 const jsonServer = require("json-server");
+const express = require("express");
 const path = require("path");
 
 const server = jsonServer.create();
@@ -9,7 +10,7 @@ const port = process.env.PORT || 3001;
 server.use(middlewares);
 
 // Serve images statically from the 'images' directory
-server.use("/images", jsonServer.static(path.join(__dirname, "images")));
+server.use("/images", express.static(path.join(__dirname, "images")));
 
 server.use((req, res, next) => {
   // Modify image paths to use the "/images" route
