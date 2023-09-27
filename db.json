@@ -1,0 +1,223 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "admin",
+      "phone": "123456789",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "loginStatus": false,
+      "signupStatus": false
+    },
+    {
+      "id": 2,
+      "name": "testuser1",
+      "phone": "111222333",
+      "email": "tu1@gmail.com",
+      "password": "tu1",
+      "loginStatus": false,
+      "signupStatus": true,
+      "orders": [],
+      "cartItems": []
+    },
+    {
+      "id": 3,
+      "name": "testuser2",
+      "phone": "444555666",
+      "email": "tu2@gmail.com",
+      "password": "tu2",
+      "loginStatus": false,
+      "signupStatus": true,
+      "orders": [],
+      "cartItems": []
+    },
+    {
+      "id": 4,
+      "name": "testuser3",
+      "phone": "777888999",
+      "email": "tu3@gmail.com",
+      "password": "tu3",
+      "loginStatus": false,
+      "signupStatus": true,
+      "orders": [],
+      "cartItems": []
+    },
+    {
+      "id": 5,
+      "name": "tu4",
+      "phone": "111111111",
+      "email": "tu4@gmail.com",
+      "password": "tu4",
+      "loginStatus": false,
+      "signupStatus": true,
+      "orders": [],
+      "cartItems": []
+    },
+    {
+      "id": 6,
+      "name": "tu5",
+      "phone": "222222222",
+      "email": "tu5@gmail.com",
+      "password": "tu5",
+      "loginStatus": false,
+      "signupStatus": true,
+      "orders": [],
+      "cartItems": []
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Denim Jacket",
+      "secondaryTitle": "Men Blue Washed Denim Jacket",
+      "description": "Browse through our carefully carted collection of high-quality clothing & accessories featuring the latest trends and style",
+      "rating": 4.2,
+      "price": 147,
+      "gender": "male",
+      "category": "jacket",
+      "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
+      "images": [
+        "/images/men_jacket1.jpg",
+        "/images/men_jacket2.jpg",
+        "/images/men_jacket3.jpg",
+        "/images/men_jacket4.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Sherwani Set",
+      "secondaryTitle": "Embroidered Velvet Mandarin Collar Sherwani Set",
+      "description": "Browse through our carefully carted collection of high-quality clothing & accessories featuring the latest trends and style",
+      "rating": 4.1,
+      "price": 129,
+      "gender": "male",
+      "category": "sherwani",
+      "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
+      "images": [
+        "/images/men_sherwani1.jpg",
+        "/images/men_sherwani2.jpg",
+        "/images/men_sherwani3.jpg",
+        "/images/men_sherwani4.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Formal Suit",
+      "secondaryTitle": "Self Design Slim-Fit Three-Piece Formal Suit",
+      "description": "Browse through our carefully carted collection of high-quality clothing & accessories featuring the latest trends and style",
+      "rating": 4.7,
+      "price": 189,
+      "gender": "male",
+      "category": "suit",
+      "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
+      "images": [
+        "/images/men_suit1.jpg",
+        "/images/men_suit2.jpg",
+        "/images/men_suit3.jpg",
+        "/images/men_suit4.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Printed Sweatshirt",
+      "secondaryTitle": "Typography Printed Sweatshirt",
+      "description": "Browse through our carefully carted collection of high-quality clothing & accessories featuring the latest trends and style",
+      "rating": 4.3,
+      "price": 147,
+      "gender": "male",
+      "category": "sweatshirt",
+      "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
+      "images": [
+        "/images/men_sweat_shirt1.jpg",
+        "/images/men_sweat_shirt2.jpg",
+        "/images/men_sweat_shirt3.jpg",
+        "/images/men_sweat_shirt4.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Oversized T-shirt",
+      "secondaryTitle": "Men Black Solid Pure Cotton Drop-Shoulder Sleeves Oversized Fit T-shirt",
+      "description": "Browse through our carefully carted collection of high-quality clothing & accessories featuring the latest trends and style",
+      "rating": 4.1,
+      "price": 149,
+      "gender": "male",
+      "category": "tshirt",
+      "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
+      "images": [
+        "/images/men_tshirt1.jpg",
+        "/images/men_tshirt2.jpg",
+        "/images/men_tshirt3.jpg",
+        "/images/men_tshirt4.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Regular T-shirt",
+      "secondaryTitle": "Women Graphic Printed Regular Fit T-shirt",
+      "description": "Browse through our carefully carted collection of high-quality clothing & accessories featuring the latest trends and style",
+      "rating": 4.1,
+      "price": 71,
+      "gender": "female",
+      "category": "tshirt",
+      "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
+      "images": [
+        "/images/women_tshirt1.jpg",
+        "/images/women_tshirt2.jpg",
+        "/images/women_tshirt3.jpg",
+        "/images/women_tshirt4.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Midi Dress",
+      "secondaryTitle": "Green & Pink Ethnic Motifs Printed Tiered Pure Cotton A-Line Midi Dress",
+      "description": "Browse through our carefully carted collection of high-quality clothing & accessories featuring the latest trends and style",
+      "rating": 4.5,
+      "price": 195,
+      "gender": "female",
+      "category": "dresses",
+      "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
+      "images": [
+        "/images/women_dress1.jpg",
+        "/images/women_dress2.jpg",
+        "/images/women_dress3.jpg",
+        "/images/women_dress4.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Fringed Hem Jacket",
+      "secondaryTitle": "Women Black Solid Fringed Hem Denim Jacket",
+      "description": "Browse through our carefully carted collection of high-quality clothing & accessories featuring the latest trends and style",
+      "rating": 4.6,
+      "price": 179,
+      "gender": "female",
+      "category": "jacket",
+      "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
+      "images": [
+        "/images/women_jacket1.jpg",
+        "/images/women_jacket2.jpg",
+        "/images/women_jacket3.jpg",
+        "/images/women_jacket4.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Longline Shrug",
+      "secondaryTitle": "Women Printed Longline Shrug",
+      "description": "Browse through our carefully carted collection of high-quality clothing & accessories featuring the latest trends and style",
+      "rating": 4.9,
+      "price": 185,
+      "gender": "female",
+      "category": "shrug",
+      "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
+      "images": [
+        "/images/women_shrug1.jpg",
+        "/images/women_shrug2.jpg",
+        "/images/women_shrug3.jpg",
+        "/images/women_shrug4.jpg"
+      ]
+    }
+  ]
+}
