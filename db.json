@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "name": "testuser1",
+      "name": "tu1",
       "phone": "111222333",
       "email": "tu1@gmail.com",
       "password": "tu1",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "name": "testuser2",
+      "name": "tu2",
       "phone": "444555666",
       "email": "tu2@gmail.com",
       "password": "tu2",
