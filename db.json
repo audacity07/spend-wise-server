@@ -232,6 +232,60 @@
         "https://github.com/audacity07/spend-wise-server/blob/master/images/women_shrug4.jpg?raw=true"
       ],
       "quantity": 1
+    },
+    {
+      "id": 10,
+      "title": "Nayo",
+      "secondaryTitle": "Blue Tropical Fit and Flare Cotton Dress",
+      "description": "Browse through our carefully curated collection of high-quality clothing & accessories featuring the latest trends and style",
+      "rating": 4.1,
+      "price": 165,
+      "gender": "female",
+      "category": "dresses",
+      "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
+      "images": [
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dresses2.1.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dresses2.2.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dresses2.3.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dresses2.4.jpg?raw=true"
+      ],
+      "quantity": 1
+    },
+    {
+      "id": 11,
+      "title": "All About You",
+      "secondaryTitle": "Women Brown Solid Overcoat with Belt",
+      "description": "Browse through our carefully curated collection of high-quality clothing & accessories featuring the latest trends and style",
+      "rating": 4.3,
+      "price": 195,
+      "gender": "female",
+      "category": "jacket",
+      "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
+      "images": [
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_jacket2.1.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_jacket2.2.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_jacket2.3.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_jacket2.4.jpg?raw=true"
+      ],
+      "quantity": 1
+    },
+    {
+      "id": 12,
+      "title": "Sassafras",
+      "secondaryTitle": "Women Burgundy Ribbed Longline Open Front Shrug",
+      "description": "Browse through our carefully curated collection of high-quality clothing & accessories featuring the latest trends and style",
+      "rating": 4.8,
+      "price": 199,
+      "gender": "female",
+      "category": "shrug",
+      "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
+      "images": [
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_shrug2.1.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_shrug2.2.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_shrug2.3.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_shrug2.4.jpg?raw=true"
+      ],
+      "quantity": 1
     }
   ]
 }
