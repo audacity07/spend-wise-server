@@ -244,10 +244,10 @@
       "category": "dresses",
       "size": { "xs": 100, "s": 100, "m": 100, "l": 100, "xl": 100 },
       "images": [
-        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dresses2.1.jpg?raw=true",
-        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dresses2.2.jpg?raw=true",
-        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dresses2.3.jpg?raw=true",
-        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dresses2.4.jpg?raw=true"
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dress2.1.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dress2.2.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dress2.3.jpg?raw=true",
+        "https://github.com/audacity07/spend-wise-server/blob/master/images/women_dress2.4.jpg?raw=true"
       ],
       "quantity": 1
     },
